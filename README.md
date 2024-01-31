@@ -1,10 +1,13 @@
-# Hi there!, I'm Ainu Azzaria 👋🏻
+# Hi there!, I'm Ainu Azzaria 
+
+A student at the Ma Chung University Malang program S1 Information Systems with deep time discipline finish the job. Has communication and public good speaking, can negotiate effectively and understand market opportunities correctly.
+
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
 - Graduated Student batch 29 of [SMK Telkom Sandhy Putra Malang](https://www.smktelkom-mlg.sch.id)
 - Student at [Ma Chung University](https://machung.ac.id/)
   
-## 💌 Social Media 
+## Social Media 
 <div align="left">
     <a href="https://instagram.com/aiinuuazzaria">
     <img
@@ -21,7 +24,7 @@
   </a>
 </div>
 
-## 🛠 Languages and Tools
+## Languages and Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=ffffff)
@@ -33,7 +36,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-## 📞 Contact Me
+## Contact Me
 [![Gmail Badge](https://img.shields.io/badge/ainu.azzaria@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:ainu.azzaria@gmail.com)](mailto:ainu.azzaria@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/aiinuuazzariaa-0077B5?style=flat-squar&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aiinuuazzariaa)](https://www.linkedin.com/in/aiinuuazzariaa)
 
