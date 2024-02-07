@@ -1,6 +1,6 @@
 # Hi there!, I'm Ainu Azzaria 
 
-A student at the Ma Chung University Malang program S1 Information Systems with deep time discipline finish the job. Has communication and public good speaking, can negotiate effectively and understand market opportunities correctly.
+A student at Ma Chung University, Malang, Bachelor of Information Systems program with deep time discipline completed her work. Have an interest in Webiste Development, such as Frontend Web Development, and have good communication and public speaking skills.
 
 - 19 years old
 - Domiciled [Malang, East Java, Indonesia](https://goo.gl/maps/h3RJSPyYnfh77Lgm7)
@@ -24,16 +24,22 @@ A student at the Ma Chung University Malang program S1 Information Systems with 
   </a>
 </div>
 
-## Languages and Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=ffffff)
+## Languages
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Vue.Js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+
+## Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![OracleSQL](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=000000)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=ffffff)
+![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=ffffff)
+![Visual Studio Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ## Contact Me
